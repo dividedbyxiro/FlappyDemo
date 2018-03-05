@@ -3,6 +3,7 @@ package com.xiro.game.desktop;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
 import com.xiro.game.FlappyDemo;
+import java.util.Scanner;
 
 public class DesktopLauncher
 {
